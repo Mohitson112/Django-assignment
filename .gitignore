@@ -1,0 +1,7 @@
+venv
+work/__pycache__
+client/__pycache__
+artist/__pycache__
+assignment/__pycache__
+work/migrations/__pycache__
+
